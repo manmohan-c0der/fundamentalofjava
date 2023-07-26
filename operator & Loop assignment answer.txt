@@ -1,0 +1,62 @@
+ans 1
+
+When a condition consists of multiple boolean expressions, they are used. Use
+conditional operators to combine two expressions, such as when we wish to print
+a number only if it is larger than 2 and less than 5, respectively.
+
+We have 3 types of conditional operators -
+● Logical-and Operator(&&)
+● Logical-or Operator(||)
+● Ternary operator(?:)
+
+ans 2
+
+We have 3 types of conditional operators -
+● Logical-and Operator(&&)
+● Logical-or Operator(||)
+● Ternary operator(?:)
+
+ans 3
+
+The switch case in java executes one statement from multiple ones. Thus, it is like an if-else-if ladder statement. It works with a lot of data types. The switch statement is used to test the equality of a variable against several values specified in the test cases
+
+
+
+ans 4
+
+ parentheses, exponents, multiplication, division, addition, subtraction.
+
+ans 5
+
+Java follows suit by using conditional statements to manage the program's flow.
+This is crucial because at some time, in order to advance with our code, we must
+fulfil requirements. For example, the console's yes or no input will determine
+whether the programme is to be continued or cancelled.
+
+Java has the following conditional statements:
+● If statement
+● else statement
+● If-else Ternary
+● Nested if-else
+● Switch statement
+
+
+ans 6
+
+if(condition){  
+//code if condition is true  
+}else{  
+//code if condition is false  
+}  
+
+
+ans 7
+In Java, we have 3 types of iterative statements -
+
+1. The while loop
+2. The for loop
+3. The do-while loop
+
+ans 8
+The difference between while and do while loops based on execution speed is that a do while loop runs faster than a while loop. The do-while is faster because it runs the first iteration without checking the loop condition. In contrast, the while loop checks the condition always.
+
