@@ -1,0 +1,44 @@
+ans 1
+Making a set of instructions that instruct a computer how to carry out a task is
+the process of programming. There are numerous computer programming
+languages available for use in programming.
+
+Category of Programming Languages:
+
+● Machine Level Language
+● Assembly language
+● High-level languages
+
+
+ans 2
+
+● Not just for academics, but for the real world as well, all programming is done.
+
+● Due to programmes developed by computer programming, you can conduct
+online banking and purchase your ticket while travelling by train or aeroplane.
+It's true that your washing machine has a few different kinds of computer
+programmes. Programming makes it possible for all of these things and many
+more.
+
+
+ans 3
+
+● Simple
+● Object-Oriented
+● Portable
+● Platform independent
+● Robust
+● Distributed
+● Dynamic
+
+ans 4
+
+An object is an entity with state and behaviour.
+
+ANS  5
+
+A class is a collection of objects that have similar traits, behaviours, and attributes.
+
+ans 6
+
+The Java main method is usually the first method you learn about when you start programming in Java because its the entry point for executing a Java program. The main method can contain code to execute or call other methods, and it can be placed in any class that's part of a program.
